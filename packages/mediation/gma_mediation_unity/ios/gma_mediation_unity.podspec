@@ -15,7 +15,7 @@ Mediation Adapter for Unity Ads to use with Google Mobile Ads.
   s.source           = { :path => '.' }
   s.source_files = 'gma_mediation_unity/Sources/gma_mediation_unity/**/*'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationUnity', '~>4.20.0.0'
+  s.dependency 'GoogleMobileAdsMediationUnity', '~>4.20.1.0'
   s.platform = :ios, '13.0'
   s.static_framework = true
 
