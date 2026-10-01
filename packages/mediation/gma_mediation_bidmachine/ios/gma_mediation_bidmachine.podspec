@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.source           = { :path => '.' }
   s.source_files = 'gma_mediation_bidmachine/Sources/gma_mediation_bidmachine/**/*'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationBidMachine', '~> 3.8.0.0'
+  s.dependency 'GoogleMobileAdsMediationBidMachine', '~> 3.8.1.0'
   s.platform = :ios, '13.0'
   s.static_framework = true
 

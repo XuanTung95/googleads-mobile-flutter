@@ -15,7 +15,7 @@ Mediation Adapter for DT Exchange to use with Google Mobile Ads.
   s.source           = { :path => '.' }
   s.source_files = 'gma_mediation_dtexchange/Sources/gma_mediation_dtexchange/**/*'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationFyber', '~> 8.4.10.0'
+  s.dependency 'GoogleMobileAdsMediationFyber', '~> 8.5.0.0'
   s.platform = :ios, '15.0'
   s.static_framework = true
   # Flutter.framework does not contain a i386 slice.

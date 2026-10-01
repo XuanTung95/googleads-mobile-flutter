@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.source           = { :path => '.' }
   s.source_files = 'gma_mediation_chartboost/Sources/gma_mediation_chartboost/**/*'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationChartboost', '~>9.14.0.0'
+  s.dependency 'GoogleMobileAdsMediationChartboost', '~>9.14.2.0'
   s.platform = :ios, '13.0'
   s.static_framework = true
 
