@@ -15,7 +15,7 @@ Mediation Adapter for InMobi to use with Google Mobile Ads.
   s.source           = { :path => '.' }
   s.source_files = 'gma_mediation_inmobi/Sources/gma_mediation_inmobi/**/*'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationInMobi', '~> 11.4.1.0'
+  s.dependency 'GoogleMobileAdsMediationInMobi', '~> 11.5.0.0'
   s.platform = :ios, '13.0'
   s.static_framework = true
 
